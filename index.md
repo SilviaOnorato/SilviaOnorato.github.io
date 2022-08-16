@@ -2,7 +2,7 @@
 
 ## What I work on
 
-I'm Silvia Onorato, PhD Student at Leiden Observatory, working in the **ENIGMA** group led by Prof. Joseph F. Hennawi.
+I'm Silvia Onorato, PhD Student at Leiden Observatory, working in the [ENIGMA group](http://enigma.physics.ucsb.edu/index.php?n=Main.HomePage) led by Prof. Joseph F. Hennawi. 
 I study high-redshift quasars (z>6.5), focusing on the analysis of optical and NIR spectra that are taken with _Keck/NIRES_, _Gemini/GNIRS_, and _VLT/X-Shooter_ spectrographs and then reduced with the open-source Python-based spectroscopic data reduction pipeline PypeIt.
 The goal of my PhD project is to infer information both on the average hydrogen neutral fraction at the epoch of Reionization and on the growth of the first super massive black holes.
 
