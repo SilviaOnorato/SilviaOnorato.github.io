@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Hello everybody and welcome to my web page!
 
-You can use the [editor on GitHub](https://github.com/SilviaOnorato/SilviaOnorato.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## What I work on
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Silvia Onorato, PhD Student at Leiden Observatory, working in the **ENIGMA** group led by Prof. Joseph F. Hennawi.
+I study high-redshift quasars (z>6.5), focusing on the analysis of optical and NIR spectra that are taken with _Keck/NIRES_, _Gemini/GNIRS_, and _VLT/X-Shooter_ spectrographs and then reduced with the open-source Python-based spectroscopic data reduction pipeline PypeIt.
+The goal of my PhD project is to infer information both on the average hydrogen neutral fraction at the epoch of Reionization and on the growth of the first super massive black holes.
 
-### Markdown
+## About myself
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was born in Palermo on the 15/06/1996 and until 19 years old I lived in my hometown, Bagheria (PA). Then I moved to Bologna, where I graduated in astrophysics at the _Alma Mater Studiorum University of Bologna_. During my Master thesis I worked on Globular Clusters, studying the distribution of Multiple Populations in the isolated and dynamically young system NGC 2419 (_Onorato et al. in prep_). During my PhD project, I've been moving to the research field I'm currently working on, focusing on high-z quasars.
 
-```markdown
-Syntax highlighted code block
+I like spending my leisure time with friends, watching  tv-series or movies, listening to music, reading books and travelling.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SilviaOnorato/SilviaOnorato.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![WhatsApp Image 2022-08-16 at 17 53 08](https://user-images.githubusercontent.com/94785081/184924131-b7149ce6-d84d-44d8-8cae-888c3dcdd179.jpeg)
