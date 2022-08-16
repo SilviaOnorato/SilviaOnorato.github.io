@@ -8,7 +8,7 @@ The goal of my PhD project is to infer information both on the average hydrogen 
 
 ## About myself
 
-I was born in Palermo on the 15/06/1996 and until 19 years old I lived in my hometown, Bagheria (PA). Then I moved to Bologna, where I graduated in astrophysics at the _Alma Mater Studiorum University of Bologna_. During my Master thesis I worked on Globular Clusters, studying the distribution of Multiple Populations in the isolated and dynamically young system NGC 2419 (_Onorato et al. in prep_). During my PhD project, I've been moving to the research field I'm currently working on, focusing on high-z quasars.
+I was born in Palermo on the 15/06/1996 and until 19 years old I lived in my hometown, Bagheria (PA). Then I moved to Bologna, where I graduated in astrophysics at the _Alma Mater Studiorum University of Bologna_. During my Master thesis I worked on Globular Clusters, studying the distribution of Multiple Populations in the isolated and dynamically young system NGC 2419 (_Onorato et al. in prep_). During my PhD project I've been moving to the research field I'm currently working on, focusing on high-z quasars.
 
 I like spending my leisure time with friends, watching  tv-series or movies, listening to music, reading books and travelling.
 
