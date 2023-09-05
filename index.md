@@ -9,7 +9,7 @@ My current sample consists of 44 high-z (6.50<z<7.65) quasars fully reduced. For
 
 ## About myself
 
-I was born in Palermo on 15/06/1996 and until 19 years old I lived in my hometown, Bagheria (PA). Then I moved to Bologna, where I graduated in astrophysics at the _Alma Mater Studiorum University of Bologna_. During my Master's thesis, I worked on Globular Clusters (GCs), studying the distribution of Multiple Populations in the isolated and dynamically young system NGC 2419 to place observational constraints on the initial formation and evolution scenarios of GCs ([_Onorato et al. 2023_](https://ui.adsabs.harvard.edu/abs/2023arXiv230709508O/abstract), published on ArXiv and accepted for publication on A&A). During my Ph.D. project I've been moving to the research field I'm currently working on, focusing on high-z quasars.
+I was born in Palermo on 15/06/1996 and until 19 years old I lived in my hometown, Bagheria (PA). Then I moved to Bologna, where I graduated in astrophysics at the _Alma Mater Studiorum University of Bologna_. During my Master's thesis, I worked on Globular Clusters (GCs), studying the distribution of Multiple Populations in the isolated and dynamically young system NGC 2419 to place observational constraints on the initial formation and evolution scenarios of GCs ([_Onorato et al. 2023_](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A...8O/abstract), published on A&A). During my Ph.D. project I've been moving to the research field I'm currently working on, focusing on high-z quasars.
 
 I like spending my leisure time with friends, watching  tv-series or movies, listening to music, reading books, and traveling.
 
