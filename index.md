@@ -15,9 +15,7 @@ I like spending my leisure time with friends, watching  TV series or movies, lis
 
 ## Contact
 
-Leiden Observatory - Oort building
-
-Niels Bohrweg 2, 2333 CA Leiden (The Netherlands)
+Leiden Observatory - Einsteinweg 55, 2333 CC Leiden (The Netherlands)
 
 E-mail: onorato@strw.leidenuniv.nl
 
