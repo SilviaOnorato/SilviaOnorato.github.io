@@ -25,7 +25,7 @@ Despite the knee complaints of an elderly soul, I'm stubborn enough to still pla
 To make my knee pain worse, I love skiing at least once a year. I learned how to do it 3 years ago, and I am really proud of this achievement as now I know how wonderful it is.
 *Another fun fact*: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
 
-While I’m not much of a boulder/climber (fear of heights hasn’t helped), I love hiking and traveling (Iceland has a special spot in my heart).
+While I’m not much of a boulder/climber (fear of heights hasn’t helped), I love hiking, traveling (Iceland has a special spot in my heart), and taking pictures of the beautiful places I visit (see a few pics [ here ](https://www.flickr.com/people/127600307@N03/)).
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
 I hope from this description I made clear enough that I like being ironic (especially about myself) and having fun and laughing with people! Cheers :)
 
