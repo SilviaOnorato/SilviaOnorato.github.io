@@ -17,7 +17,7 @@ If you want to know more about this exciting work, check this out: [_Onorato et 
 
 ## About myself
 
-I was born in Palermo in 1996 and raised in Bagheria. My passion for Astrophysics took me to Bologna in 2015, and now, with a Ph.D. position in Leiden, I'm still exploring the universe — but also many other things!
+I was born in Palermo in 1996 and raised in Bagheria. My passion for Astrophysics took me to Bologna in 2015, and now, with a Ph.D. position in Leiden, I'm still exploring the Universe — but also many other things!
 
 Despite the knee complaints of an elderly soul, I'm stubborn enough to still play as a libero (yes, I’m short) in a volleyball team. I started in 2004 and have played in every city I’ve lived in.
 *Fun fact*: as now I am based in the Netherlands, I had to learn from scratch every volleyball-related term in English (which caused some confusion on the court in the beginning).
