@@ -26,7 +26,7 @@ To make my knee pain worse, I love skiing at least once a year. I learned how to
 *Another fun fact*: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
 
 These years, I realized every astrophysicist enjoys bouldering/climbing. Well, I tried, but I'm afraid of highness and I'm not that good. I also realized many of my friends love hiking, which is an activity I'm much more keen on doing than bouldering.
-I love traveling and discovering new places (Iceland has a special place in my heart).
+I love traveling and discovering new places (Iceland has a special spot in my heart).
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
 I hope from this description I made clear enough that I like being ironic (especially about myself) and having fun and laughing with people! Cheers :)
 
