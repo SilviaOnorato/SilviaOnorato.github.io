@@ -17,16 +17,15 @@ If you want to know more about this exciting work, check this out: [_Onorato et 
 
 ## About myself
 
-I was born in Palermo on 15/06/1996 and I lived in my hometown, Bagheria, until I was 19 years old. In 2015 I moved to Bologna to follow my passion and study Astrophysics. In 2021 I graduated and obtained a Ph.D. position in Leiden, where I currently live.
+I was born in Palermo in 1996 and raised in Bagheria. My passion for astrophysics took me to Bologna in 2015, and now, with a Ph.D. position in Leiden, I'm still exploring the universe — and sometimes, volleyball courts!
 
-Even if I have multiple complaints as an elderly person, I am stubborn and I still play as a libero (yes, I am short) in a volleyball team. I started a long time ago (in ~2004), and I have changed different teams adapting to the places where I moved in my life.
+Despite the knee complaints of an elderly soul, I'm stubborn enough to still play as a libero (yes, I’m short) in a volleyball team. I started in 2004 and have played in every city I’ve lived in.
 *Fun fact*: as now I am based in the Netherlands, I had to learn from scratch every volleyball-related term in English (which caused some confusion on the court in the beginning).
 *Even funnier fact*: my volleyball mates are Dutch and they sometimes shout stuff in Dutch (that I do not speak); so I made myself able to link a certain shout to a certain action, even not knowing the meaning of it (yes, like dogs do).
 To make my knee pain worse, I love skiing at least once a year. I learned how to do it 3 years ago, and I am really proud of this achievement as now I know how wonderful it is.
 *Another fun fact*: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
 
-These years, I realized every astrophysicist enjoys bouldering/climbing. Well, I tried, but I'm afraid of highness and I'm not that good. I also realized many of my friends love hiking, which is an activity I'm much more keen on doing than bouldering.
-I love traveling and discovering new places (Iceland has a special spot in my heart).
+While I’m not much of a boulder/climber (fear of heights hasn’t helped), I love hiking and traveling (Iceland has a special spot in my heart).
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
 I hope from this description I made clear enough that I like being ironic (especially about myself) and having fun and laughing with people! Cheers :)
 
