@@ -20,10 +20,10 @@ If you want to know more about this exciting work, check this out: [_Onorato et 
 I was born in Palermo on 15/06/1996 and I lived in my hometown, Bagheria, until I was 19 years old. In 2015 I moved to Bologna to follow my passion and study Astrophysics. In 2021 I graduated and obtained a Ph.D. position in Leiden, where I currently live.
 
 Even if I have multiple complaints as an elderly person, I am stubborn and I still play as a libero (yes, I am short) in a volleyball team. I started a long time ago (in ~2004), and I have changed different teams adapting to the places where I moved in my life.
-*Fun fact: as now I am based in the Netherlands, I had to learn from scratch every volleyball-related term in English (which caused some confusion on the court in the beginning).
-Even funnier fact: my volleyball mates are Dutch and they sometimes shout stuff in Dutch (that I do not speak); so I made myself able to link a certain shout to a certain action, even not knowing the meaning of it (yes, like dogs do).*
+*Fun fact*: as now I am based in the Netherlands, I had to learn from scratch every volleyball-related term in English (which caused some confusion on the court in the beginning).
+*Even funnier fact*: my volleyball mates are Dutch and they sometimes shout stuff in Dutch (that I do not speak); so I made myself able to link a certain shout to a certain action, even not knowing the meaning of it (yes, like dogs do).
 To make my knee pain worse, I love skiing at least once a year. I learned how to do it 3 years ago, and I am really proud of this achievement as now I know how wonderful it is.
-Another fun fact: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
+*Another fun fact*: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
 
 These years, I realized every astrophysicist enjoys bouldering/climbing. Well, I tried, but I'm afraid of highness and I'm not that good. I also realized many of my friends love hiking, which is an activity I'm much more keen on doing than bouldering.
 I love traveling and discovering new places (Iceland has a special place in my heart).
