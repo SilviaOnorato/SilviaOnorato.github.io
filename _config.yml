@@ -3,7 +3,7 @@ title: Silvia's space
 logo: photo.jpeg
 description: September 2024 - Sequoia National Park (USA).
 
-google_analytics: <!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SCDBMLM6K2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
