@@ -35,3 +35,5 @@ I hope from this description I made clear enough that I like being ironic (espec
 Leiden Observatory - Einsteinweg 55, 2333 CC Leiden (The Netherlands)
 
 E-mail: onorato@strw.leidenuniv.nl
+
+![WhatsApp Image 2022-08-16 at 17 53 08](https://user-images.githubusercontent.com/94785081/184924131-b7149ce6-d84d-44d8-8cae-888c3dcdd179.jpeg)
