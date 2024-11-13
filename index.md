@@ -1,4 +1,4 @@
-# Hello everybody and welcome to my web page!
+# Hello everybody and welcome to my webpage!
 * * *
 
 ## What I work on in my Ph.D.
