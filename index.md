@@ -21,6 +21,7 @@ If you want to know more about this exciting work, check this out: [_Onorato et 
 I was born in Palermo in 1996 and raised in Bagheria. My passion for Astrophysics took me to Bologna in 2015, and now, with a Ph.D. position in Leiden, I'm still exploring the Universe — but also many other things!
 
 Despite the knee complaints of an elderly soul, I'm stubborn enough to still play as a libero (yes, I’m short) in a volleyball team. I started in 2004 and have played in every city I’ve lived in.
+
 *Fun fact*: as now I am based in the Netherlands, I had to learn from scratch every volleyball-related term in English (which caused some confusion on the court in the beginning).
 *Even funnier fact*: my volleyball mates are Dutch and they sometimes shout stuff in Dutch (that I do not speak); so I made myself able to link a certain shout to a certain action, even not knowing the meaning of it (yes, like dogs do).
 To make my knee pain worse, I love skiing at least once a year. I learned how to do it 3 years ago, and I am really proud of this achievement as now I know how wonderful it is.
@@ -36,4 +37,5 @@ Leiden Observatory - Einsteinweg 55, 2333 CC Leiden (The Netherlands)
 
 E-mail: onorato@strw.leidenuniv.nl
 
-![WhatsApp Image 2022-08-16 at 17 53 08](https://user-images.githubusercontent.com/94785081/184924131-b7149ce6-d84d-44d8-8cae-888c3dcdd179.jpeg)
+* * *
+![myphoto](https://github.com/user-attachments/assets/a52a7f43-0355-4200-b8da-52475661d9c9)
