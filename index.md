@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="/">🏠 Home</a> |
-  <a href="/CV_Onorato.pdf" target="_blank">📄 CV</a> |
+  <a href="/CV_Onorato.pdf" target="_blank">📄 Curriculum Vitae</a> |
   <a href="mailto:onorato@strw.leidenuniv.nl">📧 Contact</a>
 </p>
 
