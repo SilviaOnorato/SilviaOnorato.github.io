@@ -1,4 +1,11 @@
 # Hello everybody and welcome to my webpage!
+
+<p align="center">
+  <a href="/">🏠 Home</a> |
+  <a href="/CV_Onorato.pdf" target="_blank">📄 CV</a> |
+  <a href="mailto:onorato@strw.leidenuniv.nl">📧 Contact</a>
+</p>
+
 * * *
 
 ## What I work on in my Ph.D.
