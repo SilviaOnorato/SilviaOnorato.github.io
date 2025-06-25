@@ -1,12 +1,5 @@
-theme: jekyll-theme-cayman
 title: Silvia Onorato
-description:Personal website
+description: Personal website
 logo: photo.jpeg
-# description: September 2024 - Sequoia National Park (USA).
 google_analytics: G-SCDBMLM6K2
-
-navigation:
-  - title: Home
-    url: /
-  - title: Curriculum Vitae
-    url: /CV_Onorato.pdf
+theme: jekyll-theme-cayman
