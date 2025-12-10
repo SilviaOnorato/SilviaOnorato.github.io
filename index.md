@@ -50,4 +50,4 @@ E-mail: silvia.onorato@noirlab.edu
 
 * * *
 
-<img width="1500" height="1000" alt="Onorato" src="https://github.com/user-attachments/assets/b12112b4-575b-44ea-9f5a-c135cc3da1f5" />
+![Onorato_edit](https://github.com/user-attachments/assets/3e53bb8c-dfd0-4790-8eec-5d761c6626cc)
