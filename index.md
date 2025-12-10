@@ -9,8 +9,8 @@
 
 # Hello everybody and welcome to my webpage!
 
-## My new adventure as a post-doc!
-I'm Silvia Onorato, post-doc researcher at [Gemini Observatory](https://www.gemini.edu/) working with Ema Farina on high-redshift quasars (z>6) using JWST NIRSpec/IFU data and many others! I've just moved to Hilo and I'm really excited to work on some new science, so stay tuned...
+## My new adventure as a post-doc
+I'm Silvia Onorato, post-doc researcher at [Gemini Observatory](https://www.gemini.edu/) working with Ema Farina on high-redshift quasars (z>6) using JWST NIRSpec/IFU data and many others! I've just moved to Hilo, Hawaii and I'm really excited to work on some new science, so stay tuned...
 
 ## What I worked on in my Ph.D.
 
