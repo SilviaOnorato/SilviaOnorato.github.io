@@ -44,9 +44,10 @@ I hope from this description I made clear enough that I like being ironic (espec
 
 ## Contact
 
-Gemini Observatory - 670 N. A'ohoku Place, Hilo, HI 96720, United States of America
+Gemini Observatory - 670 N. A'Ohoku Place, Hilo, HI 96720, United States of America
 
 E-mail: silvia.onorato@noirlab.edu
 
 * * *
-![myphoto](https://github.com/user-attachments/assets/a52a7f43-0355-4200-b8da-52475661d9c9)
+
+<img width="1500" height="1000" alt="Onorato" src="https://github.com/user-attachments/assets/b12112b4-575b-44ea-9f5a-c135cc3da1f5" />
