@@ -24,4 +24,4 @@ While I’m not much of a boulderer/climber (fear of heights hasn’t helped), I
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
 I hope from this description I made clear enough that I like being ironic (especially about myself) and having fun and laughing with people! Cheers :)
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 14 24 59" src="https://github.com/user-attachments/assets/3cbf704a-5a30-413f-9239-f267f449d6be" />
+<img width="956" height="956" alt="paddling" src="https://github.com/user-attachments/assets/053243bc-fa5d-4b91-80f7-e35390e57eca" />
