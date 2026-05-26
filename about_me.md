@@ -18,7 +18,7 @@ Despite the knee complaints of an elderly soul, I'm stubborn enough to still pla
 To make my knee pain worse, I love skiing at least once a year. I learned how to do it 3 years ago, and I am really proud of this achievement as now I know how wonderful it is.
 *Another fun fact*: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
 
-After I moved to Hilo, I joined the Puna canoe club and now I can't help myself with being obsessed with paddling (see photo).
+After I moved to Hilo, I joined the Puna Canoe Club and now I can't help but be obsessed with paddling (see photo).
 
 While I’m not much of a boulderer/climber (fear of heights hasn’t helped), I love hiking, traveling (Iceland and Japan have a special spot in my heart), and taking pictures of the beautiful places I visit (see a few pics at the link above).
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
