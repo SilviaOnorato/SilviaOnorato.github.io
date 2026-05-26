@@ -15,7 +15,7 @@ Despite the knee complaints of an elderly soul, I'm stubborn enough to still pla
 
 *Fun fact*: when I moved to the Netherlands, I had to learn from scratch every volleyball-related term in English (which caused some confusion on the court in the beginning).
 *Even funnier fact*: my volleyball mates were Dutch and they sometimes used to shout stuff in Dutch (that I do not speak); so I made myself able to link a certain shout to a certain action, even not knowing the meaning of it (yes, like dogs do).
-To make my knee pain worse, I love skiing at least once a year. I learned how to do it 3 years ago, and I am really proud of this achievement as now I know how wonderful it is.
+To make my knee pain worse, I love skiing at least once a year. I learned how to do it in 2023, and I am really proud of this achievement as now I know how wonderful it is.
 *Another fun fact*: when I moved to the Netherlands I was not a great bike rider, but I bought my first bike and, with a lot of practice, I managed to ride it properly! I only fell 3 times (with minor injuries).
 
 After I moved to Hilo, I joined the Puna Canoe Club and now I can't help but be obsessed with paddling (see photo).
