@@ -29,13 +29,6 @@ I worked with UV and optical _WFC3/UVIS_ photometry from both HST and LBT, maste
 I found that "second population" (SP) stars are more centrally concentrated than FP and that the fraction of FP stars is larger than expected. This may be due to the transition of NGC 2419 to a weaker tidal field, as a number of studies suggested it formed in the Sagittarius dwarf galaxy and was accreted by the Milky Way.
 If you want to know more about this exciting work, check this out: [_Onorato et al. 2023_](https://ui.adsabs.harvard.edu/abs/2023A%26A...677A...8O/abstract) (published on A&A)!
 
-
-## Contact
-
-Gemini Observatory - 670 N. A'Ohoku Place, Hilo, HI 96720, United States of America
-
-E-mail: silvia.onorato@noirlab.edu
-
 * * *
 
 ![Onorato_edit](https://github.com/user-attachments/assets/3e53bb8c-dfd0-4790-8eec-5d761c6626cc)
