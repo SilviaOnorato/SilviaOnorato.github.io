@@ -9,23 +9,23 @@ My research focuses on high-redshift quasars: what they tell us about the growth
 
 ---
 
-## The Lyα transmission PDF from the E-XQR-30 quasar sample (in prep)
-
-The last project of my Ph.D. uses the Lyα forest, the absorption imprinted on quasar spectra by neutral hydrogen along the line of sight, to probe the intergalactic medium at the end of Reionization. I am measuring the probability distribution function (PDF) of the Lyα transmission from the high-quality X-Shooter spectra of the E-XQR-30 sample. I then compare it with the PDF obtained from mock quasar spectra based on simulations, with the goal of constraining models of the IGM.
-
-📄 [_Onorato et al. 2026c_](https://www.overleaf.com/read/hcvrhpyjbwkr#ac6f3d) (in prep)
-
----
-
 ## Nāpōwawāʻenakaulua: a close quasar pair at cosmic dawn (2026)
 
-At Gemini Observatory I work with Ema Farina on the _Aether survey_ (PI: E. P. Farina; _Farina et al. 2026 in prep_), which uses JWST NIRSpec/IFU to study quasars at z>6. One of its results is the discovery of **Nāpōwawāʻenakaulua**, a pair of quasars at z≈6.08 separated by only 0.98 arcseconds. This is the most compact quasar pair candidate known in the Epoch of Reionization. We combined spectroscopy from several instruments, including JWST, to characterize both quasars and to measure their black hole masses, accretion rates, and redshifts.
+At Gemini Observatory I work with Ema Farina on the _Aether survey_ (PI: E. P. Farina; _Farina et al. 2026 in prep_), which uses JWST NIRSpec/IFU to study quasars at z>6. One of its results is the discovery of **Nāpōwawāʻenakaulua**, a pair of quasars at z≈6.08 separated by only 0.98 arcseconds. This is the most compact quasar pair candidate known in the Epoch of Reionization. We combined spectroscopy from JWST, Gemini/GNIRS and GMOS to characterize both quasars and to measure their black hole masses, accretion rates, and redshifts.
 
 Finding such a close pair is surprising: it is 2–3 orders of magnitude more likely than expected from current models of high-redshift quasar clustering. This may point to a population of quasar pairs triggered by galaxy mergers in the early Universe, or to an unusually dense environment. Either way, the system is a unique laboratory for studying how the first massive galaxies and black holes formed.
 
 The name, given through the [A Hua He Inoa](https://imiloahawaii.org/a-hua-he-inoa) program, means _"Two celestial bodies of fathomless powerful darkness (black holes) in the brilliance of heat reincarnating energy into the Universe"_.
 
-📄 [_Onorato et al. 2026b_](https://arxiv.org/abs/2609.31835) (submitted)
+📄 [_Onorato et al. 2026b_](https://arxiv.org/abs/2609.31835) (accepted for publication in ApJL)
+
+---
+
+## The Lyα transmission PDF from the E-XQR-30 quasar sample (in prep.)
+
+The last project of my Ph.D. uses the Lyα forest, the absorption imprinted on quasar spectra by neutral hydrogen along the line of sight, to probe the intergalactic medium at the end of Reionization. I am measuring the probability distribution function (PDF) of the Lyα transmission from the high-quality X-Shooter spectra of the E-XQR-30 sample. I then compare it with the PDF obtained from mock quasar spectra based on simulations, with the goal of constraining models of the IGM.
+
+📄 [_Onorato et al. in prep._](https://www.overleaf.com/read/hcvrhpyjbwkr#ac6f3d) (in prep)
 
 ---
 
