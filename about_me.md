@@ -20,10 +20,7 @@ While I’m not much of a boulderer/climber (fear of heights hasn’t helped), I
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
 I hope from this description I made clear enough that I like being ironic (especially about myself) and having fun and laughing with people! Cheers :)
 
-<p align="center">
-  <img alt="Silvia paddling with the Puna Canoe Club" src="https://github.com/user-attachments/assets/053243bc-fa5d-4b91-80f7-e35390e57eca" style="width: 100%; max-width: 450px; height: auto;" />
-</p>
-
-<p align="center">
-  <img alt="Silvia under a giant sequoia" src="/photo.jpeg" style="width: 100%; max-width: 450px; height: auto;" />
-</p>
+<div style="display: flex; align-items: flex-start; gap: 10px; max-width: 800px; margin: 0 auto;">
+  <img alt="Silvia paddling with the Puna Canoe Club" src="https://github.com/user-attachments/assets/053243bc-fa5d-4b91-80f7-e35390e57eca" style="flex: 1; min-width: 0; height: auto;" />
+  <img alt="Silvia under a giant sequoia" src="/photo.jpeg" style="flex: 0.75; min-width: 0; height: auto;" />
+</div>
