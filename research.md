@@ -17,7 +17,7 @@ Finding such a close pair is surprising: it is 2–3 orders of magnitude more li
 
 The name, given through the [A Hua He Inoa](https://imiloahawaii.org/a-hua-he-inoa) program, means _"Two celestial bodies of fathomless powerful darkness (black holes) in the brilliance of heat reincarnating energy into the Universe"_.
 
-📄 [_Onorato et al. 2026b_](https://arxiv.org/abs/2609.31835) (accepted for publication in ApJL)
+📄 [_Onorato et al. 2026b_](https://arxiv.org/abs/2609.31835) (accepted for publication in ApJL & stay tuned for the press release!)
 
 ---
 
@@ -25,7 +25,7 @@ The name, given through the [A Hua He Inoa](https://imiloahawaii.org/a-hua-he-in
 
 The last project of my Ph.D. uses the Lyα forest, the absorption imprinted on quasar spectra by neutral hydrogen along the line of sight, to probe the intergalactic medium at the end of Reionization. I am measuring the probability distribution function (PDF) of the Lyα transmission from the high-quality X-Shooter spectra of the E-XQR-30 sample. I then compare it with the PDF obtained from mock quasar spectra based on simulations, with the goal of constraining models of the IGM.
 
-📄 [_Onorato et al. in prep._](https://www.overleaf.com/read/hcvrhpyjbwkr#ac6f3d) (in prep)
+📄 [_Onorato et al._](https://www.overleaf.com/read/hcvrhpyjbwkr#ac6f3d) (in prep.)
 
 ---
 

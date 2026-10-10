@@ -16,7 +16,7 @@ To make my knee pain worse, I love skiing at least once a year. I learned how to
 
 After I moved to Hilo, I joined the Puna Canoe Club and now I can't help but be obsessed with paddling (see photo).
 
-While I’m not much of a boulderer/climber (fear of heights hasn’t helped), I love hiking, traveling (Iceland and Japan have a special spot in my heart), and taking pictures of the beautiful places I visit (see a few pics at the link above).
+While I’m not much of a boulderer/climber (fear of heights hasn’t helped), I love hiking (see other photo below at Sequoia National Park), traveling (Iceland and Japan have a special spot in my heart), and taking pictures of the beautiful places I visit (see a few pics at the link above).
 When I can chill on my couch, I also enjoy reading books (among my favorites: "The Unbearable Lightness of Being", "The Shadow of the Wind", and "Fresh Water for Flowers"), watching TV series (I am a huge "Friends" fan), and listening to music (I love Caparezza, Pinguini Tattici Nucleari, and many international artists).
 I hope from this description I made clear enough that I like being ironic (especially about myself) and having fun and laughing with people! Cheers :)
 

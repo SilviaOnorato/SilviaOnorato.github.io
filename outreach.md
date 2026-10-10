@@ -17,7 +17,7 @@ At [AstroDay Hilo 2026](https://www.gemini.edu/news/announcements/ann26010), the
 
 ## Journey Through the Universe (February 2026)
 
-[Journey Through the Universe](https://noirlab.edu/public/education/journey-through-the-universe/) is a yearly NSF NOIRLab and Gemini education program, which brings astronomers and engineers into classrooms across Hawaiʻi Island. In February 2026 I visited three 5th-grade classes here in Hilo to talk with the students about the Solar System.
+[Journey Through the Universe](https://noirlab.edu/public/education/journey-through-the-universe/) is a yearly NSF NOIRLab and Gemini education program, which brings astronomers and engineers into classrooms across Hawaiʻi Island. In February 2026 I visited three 5th-grade classes here in Hilo to talk with the students about the Solar System (see photo below).
 
 <p align="center">
   <img src="/journey.jpeg" alt="Silvia Onorato presenting about the Moon to students during Journey Through the Universe" width="700">
