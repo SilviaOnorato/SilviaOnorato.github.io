@@ -5,7 +5,7 @@
 
 # Research
 
-My research focuses on high-redshift quasars: what they tell us about the growth of the first supermassive black holes and about the intergalactic medium (IGM) during the Epoch of Reionization. Below are my first-author projects, from the most recent to the oldest. The full list of my publications is on [SciX](https://scixplorer.org/search?fq=%7B%21type%3Daqp+v%3D%24fq_database%7D&fq_database=%28database%3Aastronomy+OR+database%3Aphysics%29&q=+author%3A%22Onorato%2C+Silvia%22++full%3A%22astrophysics%22&sort=date+desc%2C+bibcode+desc&p_=0)&p_=0&q=author%3A%22Onorato%2C%20Silvia%22%20full%3A%22astrophysics%22&rows=25&sort=date%20desc%2C%20bibcode%20desc&start=0).
+My research focuses on high-redshift quasars: what they tell us about the growth of the first supermassive black holes and about the intergalactic medium (IGM) during the Epoch of Reionization. Below are my first-author projects, from the most recent to the oldest. The full list of my publications is on [SciX](https://scixplorer.org/search?fq=%7B%21type%3Daqp+v%3D%24fq_database%7D&fq_database=%28database%3Aastronomy+OR+database%3Aphysics%29&q=+author%3A%22Onorato%2C+Silvia%22++full%3A%22astrophysics%22&sort=date+desc%2C+bibcode+desc&p_=0).
 
 ---
 
