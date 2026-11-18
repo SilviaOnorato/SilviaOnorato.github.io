@@ -5,13 +5,13 @@
 
 # Research
 
-My research focuses on high-redshift quasars: what they tell us about the growth of the first supermassive black holes and about the intergalactic medium (IGM) during the Epoch of Reionization. Below are my first-author projects, from the most recent to the oldest. The full list of my publications is on [SciX](https://scixplorer.org/search?fq=%7B%21type%3Daqp+v%3D%24fq_database%7D&fq_database=%28database%3Aastronomy+OR+database%3Aphysics%29&q=+author%3A%22Onorato%2C+Silvia%22++full%3A%22astrophysics%22&sort=date+desc%2C+bibcode+desc&p_=0).
+My research focuses on high-redshift quasars: what they tell us about the growth of the first supermassive black holes and the intergalactic medium (IGM) during the Epoch of Reionization. Below are my first-author projects, from the most recent to the oldest. The full list of my publications is on [SciX](https://scixplorer.org/search?fq=%7B%21type%3Daqp+v%3D%24fq_database%7D&fq_database=%28database%3Aastronomy+OR+database%3Aphysics%29&q=+author%3A%22Onorato%2C+Silvia%22++full%3A%22astrophysics%22&sort=date+desc%2C+bibcode+desc&p_=0).
 
 ---
 
 ## Nāpōwawāʻenakaulua: a close quasar pair at cosmic dawn (2026)
 
-At Gemini Observatory I work with Ema Farina on the _Aether survey_ (PI: E. P. Farina; _Farina et al. 2026 in prep_), which uses JWST NIRSpec/IFU to study quasars at z>6. One of its results is the discovery of **Nāpōwawāʻenakaulua** (J1602+4228AB), a pair of quasars at z≈6.08 separated by only 0.98 arcseconds (about 18,000 light-years), seen just 900 million years after the Big Bang. It is the oldest compact quasar pair ever found and the most compact one known in the Epoch of Reionization. We combined spectroscopy from JWST, Gemini/GNIRS and GMOS to characterize both quasars and to measure their black hole masses, accretion rates, and redshifts.
+At Gemini Observatory I work with Ema Farina on the [_Aether survey_](https://emastro.github.io/aether/) (PI: E. P. Farina; _Farina et al. 2026 in prep_), which uses JWST NIRSpec/IFU to study quasars at z>6. One of its results is the discovery of **Nāpōwawāʻenakaulua** (J1602+4228AB), a pair of quasars at z≈6.08 separated by only 0.98 arcseconds (about 18,000 light-years), seen just 900 million years after the Big Bang. It is the oldest compact quasar pair ever found and the most compact one known in the Epoch of Reionization. We combined spectroscopy from JWST, Gemini/GNIRS and GMOS to characterize both quasars and to measure their black hole masses, accretion rates, and redshifts.
 
 Finding such a close pair is surprising: it is 2–3 orders of magnitude more likely than expected from current models of high-redshift quasar clustering. This may point to a population of quasar pairs triggered by galaxy mergers in the early Universe, or to an unusually dense environment. Either way, the system is a unique laboratory for studying how the first massive galaxies and black holes formed.
 
@@ -19,7 +19,7 @@ The name, given through the [A Hua He Inoa](https://imiloahawaii.org/a-hua-he-in
 
 📄 [_Onorato et al. 2026b_](https://iopscience.iop.org/article/10.3847/2041-8213/aeb11f) (ApJL)
 
-📰 In the news: [NSF NOIRLab press release](https://noirlab.edu/public/news/noirlab2627/) · [Media INAF](https://www.media.inaf.it/2026/11/11/aloha-antichissima-coppia-di-quasar/) (in Italian)
+📰 In the news: [NSF NOIRLab press release](https://noirlab.edu/public/news/noirlab2627/) · [Maunakea Observatories](https://www.maunakeaobservatories.org/stories/gemini-north-telescope-helps-discover-npwawenakaulua-a-rare-quasar-pair-from-the-early-universe) · [Media INAF](https://www.media.inaf.it/2026/11/11/aloha-antichissima-coppia-di-quasar/) (in Italian)
 
 ---
 
