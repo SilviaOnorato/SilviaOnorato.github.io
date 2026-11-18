@@ -19,7 +19,7 @@ The name, given through the [A Hua He Inoa](https://imiloahawaii.org/a-hua-he-in
 
 📄 [_Onorato et al. 2026b_](https://iopscience.iop.org/article/10.3847/2041-8213/aeb11f) (ApJL)
 
-📰 In the news: [NSF NOIRLab press release](https://noirlab.edu/public/news/noirlab2627/) · [Maunakea Observatories](https://www.maunakeaobservatories.org/stories/gemini-north-telescope-helps-discover-npwawenakaulua-a-rare-quasar-pair-from-the-early-universe) · [Media INAF](https://www.media.inaf.it/2026/11/11/aloha-antichissima-coppia-di-quasar/) (in Italian)
+📰 Press releases: [NSF NOIRLab](https://noirlab.edu/public/news/noirlab2627/) · [Maunakea Observatories](https://www.maunakeaobservatories.org/stories/gemini-north-telescope-helps-discover-npwawenakaulua-a-rare-quasar-pair-from-the-early-universe) · [Media INAF](https://www.media.inaf.it/2026/11/11/aloha-antichissima-coppia-di-quasar/) (in Italian)
 
 ---
 
