@@ -5,19 +5,21 @@
 
 # Research
 
-My research focuses on high-redshift quasars: what they tell us about the growth of the first supermassive black holes and about the intergalactic medium (IGM) during the Epoch of Reionization. Below are my first-author projects, from the most recent to the oldest. The full list of my publications is on [ADS](https://ui.adsabs.harvard.edu/search/fl=identifier%2C%5Bcitations%5D%2Cabstract%2Cauthor%2Cbook_author%2Corcid_pub%2Cpublisher%2Corcid_user%2Corcid_other%2Cbibcode%2Ccitation_count%2Ccomment%2Cdoi%2Cid%2Ckeyword%2Cpage%2Cproperty%2Cpub%2Cpub_raw%2Cpubdate%2Cpubnote%2Cread_count%2Ctitle%2Cvolume%2Cdatabase%2Clinks_data%2Cesources%2Cdata%2Ccitation_count_norm%2Cemail%2Cdoctype&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=author%3A%22Onorato%2C%20Silvia%22%20full%3A%22astrophysics%22&rows=25&sort=date%20desc%2C%20bibcode%20desc&start=0).
+My research focuses on high-redshift quasars: what they tell us about the growth of the first supermassive black holes and about the intergalactic medium (IGM) during the Epoch of Reionization. Below are my first-author projects, from the most recent to the oldest. The full list of my publications is on [SciX](https://scixplorer.org/search?fq=%7B%21type%3Daqp+v%3D%24fq_database%7D&fq_database=%28database%3Aastronomy+OR+database%3Aphysics%29&q=+author%3A%22Onorato%2C+Silvia%22++full%3A%22astrophysics%22&sort=date+desc%2C+bibcode+desc&p_=0)&p_=0&q=author%3A%22Onorato%2C%20Silvia%22%20full%3A%22astrophysics%22&rows=25&sort=date%20desc%2C%20bibcode%20desc&start=0).
 
 ---
 
 ## Nāpōwawāʻenakaulua: a close quasar pair at cosmic dawn (2026)
 
-At Gemini Observatory I work with Ema Farina on the _Aether survey_ (PI: E. P. Farina; _Farina et al. 2026 in prep_), which uses JWST NIRSpec/IFU to study quasars at z>6. One of its results is the discovery of **Nāpōwawāʻenakaulua**, a pair of quasars at z≈6.08 separated by only 0.98 arcseconds. This is the most compact quasar pair candidate known in the Epoch of Reionization. We combined spectroscopy from JWST, Gemini/GNIRS and GMOS to characterize both quasars and to measure their black hole masses, accretion rates, and redshifts.
+At Gemini Observatory I work with Ema Farina on the _Aether survey_ (PI: E. P. Farina; _Farina et al. 2026 in prep_), which uses JWST NIRSpec/IFU to study quasars at z>6. One of its results is the discovery of **Nāpōwawāʻenakaulua** (J1602+4228AB), a pair of quasars at z≈6.08 separated by only 0.98 arcseconds (about 18,000 light-years), seen just 900 million years after the Big Bang. It is the oldest compact quasar pair ever found and the most compact one known in the Epoch of Reionization. We combined spectroscopy from JWST, Gemini/GNIRS and GMOS to characterize both quasars and to measure their black hole masses, accretion rates, and redshifts.
 
 Finding such a close pair is surprising: it is 2–3 orders of magnitude more likely than expected from current models of high-redshift quasar clustering. This may point to a population of quasar pairs triggered by galaxy mergers in the early Universe, or to an unusually dense environment. Either way, the system is a unique laboratory for studying how the first massive galaxies and black holes formed.
 
 The name, given through the [A Hua He Inoa](https://imiloahawaii.org/a-hua-he-inoa) program, means _"Two celestial bodies of fathomless powerful darkness (black holes) in the brilliance of heat reincarnating energy into the Universe"_.
 
-📄 [_Onorato et al. 2026b_](https://arxiv.org/abs/2609.31835) (accepted for publication in ApJL & stay tuned for the press release!)
+📄 [_Onorato et al. 2026b_](https://iopscience.iop.org/article/10.3847/2041-8213/aeb11f) (ApJL)
+
+📰 In the news: [NSF NOIRLab press release](https://noirlab.edu/public/news/noirlab2627/) · [Media INAF](https://www.media.inaf.it/2026/11/11/aloha-antichissima-coppia-di-quasar/) (in Italian)
 
 ---
 
