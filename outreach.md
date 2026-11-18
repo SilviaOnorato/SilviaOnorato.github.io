@@ -27,7 +27,7 @@ At this fair-style event for about 850 students, I co-ran an astronomy booth for
 
 At [AstroDay Hilo 2026](https://www.gemini.edu/news/announcements/ann26010), the free yearly event organized by the University of Hawaiʻi Institute for Astronomy, I was at the Gemini Observatory booth. Together with the other Maunakea Observatories, we welcomed ʻohana (families) of all ages, answering questions about the cosmos and the observatory, and doing hands-on activities about the life cycle of high-mass stars.
 
-## Journey Through the Universe (February 2026)
+## Journey Through the Universe (February-October 2026)
 
 [Journey Through the Universe](https://noirlab.edu/public/education/journey-through-the-universe/) is a yearly NSF NOIRLab and Gemini education program, which brings astronomers and engineers into classrooms across Hawaiʻi Island.
 
